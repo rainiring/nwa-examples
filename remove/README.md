@@ -25,7 +25,7 @@ OR
 
 ```shell
 cd add
-nwa remove -t tmpl.txt README.md .
+nwa remove -t tmpl.txt -s README.md -s tmpl.txt .
 ```
 
 ## III Check
