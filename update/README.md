@@ -14,7 +14,7 @@ nwa --version
 
 ## II Update License Header
 
-Update copyright holder and copyright year of the source code under the `nwa-examples/update` folder with following command.
+Update license type, copyright holder and copyright year of the source code files under the `nwa-examples/update` folder with following command.
 
 ```shell
 cd update

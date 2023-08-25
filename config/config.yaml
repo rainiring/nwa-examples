@@ -1,0 +1,7 @@
+nwa:
+  cmd: "add"
+  holder: "RHINE LAB.LLC."
+  year: "2077"
+  mute: true
+  path: ["."]
+  skip: ["README.md", "config.yaml"]
