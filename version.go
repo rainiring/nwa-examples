@@ -1,3 +1,3 @@
 package nwa_examples
 
-const version = "dev"
+const version = "v0.1.0"
