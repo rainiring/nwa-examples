@@ -14,7 +14,7 @@ nwa --version
 
 ## II Add License Header
 
-Add license header for the go file under the `nwa-examples/add` folder with following command.
+Add license header for the go files under the `nwa-examples/add` folder with following command.
 
 ```shell
 cd add
