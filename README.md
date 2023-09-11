@@ -1,4 +1,6 @@
-# NWA - Examples
+# NWA-EXAMPLES
+
+> Examples for NWA
 
 - **[Add](add)**: Add license headers to files
 - **[Check](check)**: Check license headers of files
