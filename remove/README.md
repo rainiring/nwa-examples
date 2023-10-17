@@ -30,4 +30,4 @@ nwa remove -t tmpl.txt -s README.md -s tmpl.txt .
 
 ## III Check
 
-Now all the go files under `nwa-examples/add` do not have a license header, NWA runs correctly.
+Now all the go files under `nwa-examples/remove` do not have a license header, NWA runs correctly.
